@@ -1,0 +1,3 @@
+[submodule "ext/optick"]
+	path = ext/optick
+	url = https://github.com/bombomby/optick

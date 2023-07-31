@@ -1,0 +1,6 @@
+{
+  "cMakeDirectoryPath": "../ext/optick",
+  "outputDirectoryPath": "../lib",
+  "deleteBuildFiles": true,
+  "cMakeArguments": []
+}

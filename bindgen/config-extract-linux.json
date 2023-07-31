@@ -1,0 +1,10 @@
+{
+  "inputFilePath": "../src/c/production/optick/_optick.h",
+  "userIncludeDirectories": [
+    "../ext/optick/src"
+  ],
+  "platforms": {
+    "x86_64-unknown-linux-gnu": {},
+    "aarch64-unknown-linux-gnu": {}
+  }
+}

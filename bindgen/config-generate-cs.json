@@ -1,0 +1,15 @@
+{
+  "inputFilePath": "./x-ast/ast-cross-platform.json",
+  "outputFilePath": "./PInvoke.gen.cs",
+  "namespaceName": "Optick",
+  "className": "PInvoke",
+  "libraryName": "OptickCore",
+  "mappedNames": [],
+  "ignoredNames": [],
+  "isEnabledVerifyCSharpCodeCompiles": false,
+  "mappedCNamespaces": [],
+  "isEnabledAssemblyAttributes": true,
+  "isEnabledLibraryImport": true,
+  "isEnabledIdiomaticCSharp": true,
+  "isEnabledEnumValueNamesUpperCase": false
+}

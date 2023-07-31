@@ -1,0 +1,10 @@
+{
+  "inputFilePath": "../src/c/production/optick/_optick.h",
+  "userIncludeDirectories": [
+    "../ext/optick/src"
+  ],
+  "platforms": {
+    "aarch64-apple-darwin": {},
+    "x86_64-apple-darwin": {}
+  }
+}
