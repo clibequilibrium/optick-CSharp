@@ -13,7 +13,7 @@ internal sealed class Program
         var fileName = "Program.cs";
 
         var desc = OptickAPICreateEventDescription((CString)funcName, (ushort)funcName.Length, (CString)fileName, (ushort)fileName.Length, 25);
-        OptickAPIPushEvent(desc);
+        var @event = OptickAPIPushEvent(desc);
 
         Random random = new Random();
 
@@ -21,6 +21,8 @@ internal sealed class Program
         {
             j += Math.Sin(i);
         }
+
+        OptickAPIPopEvent(@event);
 
         return j;
     }
